@@ -1,0 +1,5 @@
+# Keep documents and outputs out of the repo
+*.pdf
+*.docx
+markdown/
+__pycache__/
