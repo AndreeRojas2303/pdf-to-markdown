@@ -2,7 +2,7 @@
 
 A small Python script that converts **multiple PDF files to Markdown at once**, entirely on your own computer. Optionally, it also extracts the images inside each PDF.
 
-I built it (with the help of Claude) to prepare academic papers for AI-assisted work: literature reviews, summaries, and presentation slides. Because it runs locally, your documents are never uploaded anywhere.
+I built it to prepare academic papers for AI-assisted work: literature reviews, summaries, and presentation slides. Because it runs locally, your documents are never uploaded anywhere.
 
 ## Features
 
